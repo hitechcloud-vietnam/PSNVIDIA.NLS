@@ -6,9 +6,6 @@
 
 > This PowerShell module lets one accomplish various tasks with the NVIDIA License System API and is available in [the PowerShell Gallery](https://www.powershellgallery.com/packages/PSNVIDIA.NLS)
 
-> [!TIP]  
-> Read the related blog post at https://blog.graa.dev/PowerShell-NVIDIASoftware
-
 ## 🚀 Features 
 
 * Retrieve compatible versions of e.g. vGPU software
